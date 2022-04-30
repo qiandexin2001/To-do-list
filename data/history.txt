@@ -1,0 +1,31 @@
+
+Event 1: 
+Highlighted
+Name: assign1
+Type: homework
+Due month: 4
+Due day: 11
+Important event!
+Event 2: 
+Highlighted
+Name: lab1
+Type: other
+Due month: 4
+Due day: 8
+Urgent
+Event 3: 
+Name: lab2
+Type: other
+Due month: 4
+Due day: 7
+Not done
+Not urgent
+
+Urgent Events: 
+Event 1: 
+Highlighted
+Name: lab1
+Type: other
+Due month: 4
+Due day: 8
+Urgent
